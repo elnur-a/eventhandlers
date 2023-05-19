@@ -1,0 +1,8 @@
+.single-input {
+  display: flex;
+}
+
+.single-input label {
+  display: inline-block;
+  width: 120px;
+}
